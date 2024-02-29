@@ -51,7 +51,7 @@ Connect with me:
 <th>
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=femisharomi;layout=compact&amp;theme=buefy&amp;hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=femisharomi&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" 
     style="max-width: 100%;">
 </th>
 </tr>
