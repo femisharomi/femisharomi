@@ -17,17 +17,15 @@ Connect with me:
 
 <h3 align="left">About Me: </h3>
 
-👨🏾‍💻 Full-stack Software Engineer
+👨🏾‍💻 Full-Stack Software Engineer
 
-🏙️ Currently Employed at: BAE Systems 
+🏙️ Currently work at: BAE Systems 
 
-💬 Ask me about **anything... Space, Time, History, Manga, Games, Travelling, LIFE etc**
+💬 Ask me about anything... **Space, Time, History, Manga, Games, Travelling, LIFE etc**
 
 🤓 Know about my experiences [https://www.linkedin.com/in/afizsharomi/](https://www.linkedin.com/in/afizsharomi/)
 
 🔭 I’m currently working on [Zero](https://github.com/femisharomi/zero)
-
-📂 All of my projects are available at [https://github.com/femisharomi/](https://github.com/femisharomi/)
 
 
 <p align="center"> 
@@ -39,7 +37,9 @@ Connect with me:
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=femisharomi&show_icons=true&locale=en&layout=compact" alt="femisharomi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=femisharomi&show_icons=true&locale=en" alt="femisharomi" /></p>
+</div>
 
