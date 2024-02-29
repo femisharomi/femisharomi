@@ -46,15 +46,17 @@ Connect with me:
 <tr>
 <th>
 <img 
-  align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=femisharomi&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true" 
+  align="center"
+  src="https://camo.githubusercontent.com/a0cc071e7566a242e6dd3c6d84b847df651ddc63a2f014cd63bd7cbd2e5ef17d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d66656d69736861726f6d692673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d7472616e73706172656e7426686964655f626f726465723d74727565"
+  data-canonical-src="https://github-readme-stats.vercel.app/api?username=femisharomi&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true" 
   alt="Femi's github stats" 
   style="max-width: 100%;">
 </th>
 <th>
   <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=femisharomi&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" 
+    align="center"
+    src="https://camo.githubusercontent.com/03d3a3c650a4db6021a3b8bb4b83a628fb0e1f4cba1b9f4611b0666788b76371/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d66656d69736861726f6d69266c61796f75743d636f6d70616374267468656d653d7472616e73706172656e7426686964655f626f726465723d74727565"
+    data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=femisharomi&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" 
     style="max-width: 100%;">
 </th>
 </tr>
