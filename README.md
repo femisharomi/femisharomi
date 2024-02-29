@@ -11,7 +11,8 @@ Connect with me:
 <a href="https://discord.gg/the419prodigy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="the419prodigy" height="20" width="25" /></a>
 </p>
 
-<h1 align="center">Yo, I'm Femi😜</h1>
+<h1 align="center">Yo😜 I'm Femi</h1>
+<h2 aligh="center"> I create stuff sometimes :) </h2>
 <h3 align="center">London's own full-stack developer, deeply passionate about designing and developing cutting-edge applications that make a difference!</h3>
 
 <h3 align="center">About Me: </h3>
