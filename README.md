@@ -12,7 +12,7 @@ Connect with me:
 </p>
 
 <h1 style="display: inline-block;" align="center">
-  <img src=https://github.com/femisharomi/templates/blob/main/icons/gh_main_page_logo.png alt="Logo">
+  <img src=https://github.com/femisharomi/templates/blob/main/icons/gh_main_page_logo.png alt="Logo" width="200" height="150">
 </h1>
 
 
