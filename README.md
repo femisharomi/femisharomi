@@ -11,6 +11,10 @@ Connect with me:
 <a href="https://discord.gg/the419prodigy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="the419prodigy" height="20" width="25" /></a>
 </p>
 
+<h1 style="display: inline-block;">
+  <img src=https://github.com/femisharomi/templates/blob/main/icons/gh_main_page_logo.png alt="Logo">
+</h1>
+
 <h1 align="center">Yo😜 I'm Femi</h1>
 <p  align="center"> I create stuff sometimes :) </p>
 <h3 align="center">London's own full-stack developer, deeply passionate about taking over the world with AI & developing applications that make a difference!</h3>
