@@ -39,6 +39,7 @@ Connect with me:
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=femisharomi&show_icons=true&locale=en&layout=compact" alt="femisharomi" /></p>
+<p><img align="center" alt="Femi's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=femisharomi&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=femisharomi&show_icons=true&locale=en" alt="femisharomi" /></p>
 
