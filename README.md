@@ -23,7 +23,7 @@ Connect with me:
 
 💬 Ask me about anything... **Space, Time, History, Manga, Games, Travelling, LIFE etc**
 
-🤓 Know about my experiences [https://www.linkedin.com/in/afizsharomi/](https://www.linkedin.com/in/afizsharomi/)
+🤓 Want to know more about my experiences? [Checkout my LinkedIn](https://www.linkedin.com/in/afizsharomi/)
 
 🔭 I’m currently working on [Zero](https://github.com/femisharomi/zero)
 
