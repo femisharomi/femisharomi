@@ -4,7 +4,7 @@
 -->
 <p align="center">
 Connect with me:
-<a href="https://linkedin.com/in/afizsharomi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="femi sharomi" height="15" width="20" /></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://linkedin.com/in/afizsharomi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="femi sharomi" height="15" width="20" /></a>
 <a href="https://instagram.com/femi_sharomi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="femi_sharomi" height="15" width="20" /></a>
 <a href="https://twitter.com/femi_sharomi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="femi_sharomi" height="15" width="20" /></a>
 <a href="https://www.leetcode.com/femisharomi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="femisharomi" height="15" width="20" /></a>
