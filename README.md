@@ -12,11 +12,13 @@ Connect with me:
 </p>
 
 <h1 align="center">Yo😜 I'm Femi</h1>
-<h2 aligh="center"> I create stuff sometimes :) </h2>
+<p  align="center"> I create stuff sometimes :) </p>
 <h3 align="center">London's own full-stack developer, deeply passionate about designing and developing cutting-edge applications that make a difference!</h3>
 
 <h3 align="center">About Me: </h3>
-👨🏾‍💻 Full-stack Software Engineer at BAE Systems
+👨🏾‍💻 Full-stack Software Engineer
+
+🏙️ Currently Employed at: BAE Systems 
 
 💬 Ask me about **anything... Space, Time, History, Manga, Games, Travelling, LIFE etc**
 
