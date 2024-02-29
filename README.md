@@ -3,23 +3,26 @@
 
 -->
 
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <img src="https://komarev.com/ghpvc/?username=femisharomi&label=Digital%20Engagements&color=0e75b6&style=flat" alt="femisharomi" />
+  <p style="font-family: 'Courier New', monospace; font-size: 12px; color: #0e75b6; margin-top: 5px;">~ Cybernetic Interactions ~</p>
+</div>
+
 <h1 align="center">Yo, I'm Femi😜</h1>
 <h3 align="center">London's own full-stack developer, deeply passionate about designing and developing cutting-edge applications that make a difference!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=femisharomi&label=Profile%20views&color=0e75b6&style=flat" alt="femisharomi" /> </p>
+💬 Ask me about **anything... Space, Time, Manga, Anime etc etc**
 
-- 🔭 I’m currently working on [Zero](https://github.com/femisharomi/zero)
+🤓 Know about my experiences [https://www.linkedin.com/in/afizsharomi/](https://www.linkedin.com/in/afizsharomi/)
 
-- 🤝🏾I’m looking to collaborate on [Echo](https://github.com/femisharomi/echo)
+🔭 I’m currently working on [Zero](https://github.com/femisharomi/zero)
 
-- 👨🏾‍💻All of my projects are available at [https://github.com/femisharomi/](https://github.com/femisharomi/)
+👨🏾‍💻 All of my projects are available at [https://github.com/femisharomi/](https://github.com/femisharomi/)
 
-- 💬 Ask me about **anything... Space, Time, Manga, Anime etc etc**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/afizsharomi/](https://www.linkedin.com/in/afizsharomi/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Connect with me:
 <a href="https://twitter.com/femi_sharomi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="femi_sharomi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/femi sharomi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="femi sharomi" height="30" width="40" /></a>
 <a href="https://instagram.com/femi_sharomi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="femi_sharomi" height="30" width="40" /></a>
