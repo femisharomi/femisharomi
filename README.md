@@ -44,14 +44,14 @@ Connect with me:
 <th>
 <img 
   align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=femisharomi&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" 
+  src="https://github-readme-stats.vercel.app/api?username=femisharomi&amp;show_icons=true&amp;include_all_commits=true&amp;theme=shadow_red&amp;hide_border=true" 
   alt="Femi's github stats" 
   style="max-width: 100%;">
 </th>
 <th>
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=femisharomi&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=femisharomi&amp;layout=compact&amp;theme=shadow_red&amp;hide_border=true" 
     style="max-width: 100%;">
 </th>
 </tr>
