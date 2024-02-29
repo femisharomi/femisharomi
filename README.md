@@ -15,7 +15,8 @@ Connect with me:
 <p  align="center"> I create stuff sometimes :) </p>
 <h3 align="center">London's own full-stack developer, deeply passionate about designing and developing cutting-edge applications that make a difference!</h3>
 
-<h3 align="center">About Me: </h3>
+<h3 align="left">About Me: </h3>
+
 👨🏾‍💻 Full-stack Software Engineer
 
 🏙️ Currently Employed at: BAE Systems 
