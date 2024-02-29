@@ -47,8 +47,7 @@ Connect with me:
 <th>
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=femisharomi&show_icons=true&locale=en&layout=compact" 
-    data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=femisharomi&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" 
+    data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=femisharomi;layout=compact&amp;theme=buefy&amp;hide_border=true" 
     style="max-width: 100%;">
 </th>
 
