@@ -14,14 +14,15 @@ Connect with me:
 <h1 align="center">Yo, I'm Femi😜</h1>
 <h3 align="center">London's own full-stack developer, deeply passionate about designing and developing cutting-edge applications that make a difference!</h3>
 
-
+<h3> align="left">About Me: </h3>
+👨🏾‍💻 Full-stack Software Engineer at BAE Systems
 💬 Ask me about **anything... Space, Time, History, Manga, Games, Travelling, LIFE etc**
 
 🤓 Know about my experiences [https://www.linkedin.com/in/afizsharomi/](https://www.linkedin.com/in/afizsharomi/)
 
 🔭 I’m currently working on [Zero](https://github.com/femisharomi/zero)
 
-👨🏾‍💻 All of my projects are available at [https://github.com/femisharomi/](https://github.com/femisharomi/)
+📂 All of my projects are available at [https://github.com/femisharomi/](https://github.com/femisharomi/)
 
 
 <h3 align="left">Languages and Tools:</h3>
