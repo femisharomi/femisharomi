@@ -20,7 +20,7 @@ Connect with me:
 
 <h3 align="left">About Me: </h3>
 
-👨🏾‍💻 Full-Stack Software Engineer
+👨🏾‍💻 Software Engineer
 
 🏙️ Currently work at: BAE Systems 
 
