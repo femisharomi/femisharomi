@@ -28,7 +28,7 @@ Connect with me:
 
 🤓 Want to know more about my experiences? [Checkout my LinkedIn](https://www.linkedin.com/in/afizsharomi/)
 
-🔭 I’m currently working on [Zero](https://github.com/femisharomi/zero)
+🔭 I’m currently working on [CC](https://github.com/femisharomi/cc)
 
 
 <p align="center"> 
