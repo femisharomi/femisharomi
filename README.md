@@ -28,7 +28,7 @@ Connect with me:
 
 🤓 Want to know more about my experiences? [Checkout my LinkedIn](https://www.linkedin.com/in/afizsharomi/)
 
-🔭 I’m currently working on [CC](https://github.com/femisharomi/cc) & [Balearic](https://github.com/femisharomi/balearic)
+🔭 I’m currently working on [CC](https://github.com/femisharomi/cc) & [Balearic](https://github.com/femisharomi/balearic)  ( Both are private for now as they are for clients.)
 
 
 <p align="center"> 
