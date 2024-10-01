@@ -40,23 +40,3 @@ Connect with me:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>  
 </p>
-
-<table>
-<thead>
-<tr>
-<th>
-<img 
-  align="center"
-  data-canonical-src="https://github-readme-stats.vercel.app/api?username=femisharomi&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true" 
-  alt="Femi's github stats" 
-  style="max-width: 100%;">
-</th>
-<th>
-  <img 
-    align="center"
-    data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=femisharomi&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" 
-    style="max-width: 100%;">
-</th>
-</tr>
-</thead>
-</table>
