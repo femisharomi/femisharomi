@@ -16,7 +16,7 @@ Connect with me:
 </h1>
 
 
-<h3 align="center">London's own jack-of-all-trades developer, deeply passionate about taking over the world with AI & developing applications that make a difference!</h3>
+<h3 align="center">London's own jack-of-all-trades developer, deeply passionate about bringing ideas to life & developing applications that make a difference!</h3>
 
 <h3 align="left">About Me: </h3>
 
